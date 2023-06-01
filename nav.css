@@ -1,0 +1,27 @@
+/* Style to add to the entire navigation section */
+#navbar {
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    margin-top: 0;
+    padding: 1em;
+}
+/* Style to add to each list item */
+.navitem {
+    display: inline-block;
+    margin: 0 1em;
+    font-size: 1.5em;
+    font-family: 'Pacifico', cursive;
+}
+/* Style to add to each link in the navbar */
+.navlink {
+    color: white;
+    text-decoration: none;
+}
+
+/* This just creates a gap under the navbar */
+#navbreak {
+    margin-top: 7em;
+}
