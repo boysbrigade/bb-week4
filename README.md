@@ -30,3 +30,5 @@ Your code should look something like this:
 
 Copy the CSS from [nav.css](nav.css) to your CSS file.  
 You can edit this to change the style of your navigation bar.
+
+Check out https://boysbrigade.github.io/bb-week4/ for an example of what your website should look like.
